@@ -1,0 +1,34 @@
+@media(max-width: 1200px) {
+  .fifthBlock::before{
+    width: 100%;
+    left: 0;
+  }
+  .girl_img{
+    top:52px;
+  }
+}
+@media(max-width: 1024px) {
+  .adaptive-display-none{
+    display: none;
+  }
+  .fourthBlock .col-md-6{
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+
+}
+@media(max-width: 992px) {
+
+}
+@media(max-width: 767px) {
+
+}
+@media(max-width: 550px) {
+
+}
+@media(max-width: 480px) {
+
+}
+@media(max-width: 320px) {
+
+}
